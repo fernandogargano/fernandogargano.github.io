@@ -13,3 +13,19 @@ li {color: cornflowerblue;}
 color: blue;
 flood-color: aqua;
 }
+
+ #nav{
+    width: 155px;
+ }
+ 
+ .titulonav{
+    border: 1px solid red#fb0202;   
+    font-size: 12pt;
+    font-weight: bold;
+    background-color: white;
+    color: #000;
+    padding: 4px;
+ }
+ 
+ 
+
